@@ -1,0 +1,47 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+yellowbrick
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+torchtext
+
+# NLP
+nltk
+spacy
+transformers
+gensim
+
+# Data Handling
+openpyxl
+pillow
+opencv-python
+
+# Deployment
+flask
+fastapi
+streamlit
+gradio
+
+# Utilities
+joblib
+pickle-mixin
+tqdm
+scikit-plot
